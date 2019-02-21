@@ -1,0 +1,31 @@
+article {
+    display: flex;
+    flex-direction: column;
+}
+
+.articleDiv{
+    display: flex;
+    flex-wrap: nowrap;
+    align-content: stretch;
+    flex-direction: row;
+}
+
+
+.articleSectDiv {
+    display: flex;
+    flex-direction: column;
+    padding: 4px;
+}
+
+.navigation {
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: column;
+    
+    justify-content: flex-start;
+    align-items: stretch;
+    align-content: flex-end;
+    
+    padding: 0px 6px;
+    
+}
