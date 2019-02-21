@@ -1,0 +1,35 @@
+body {
+    margin: 10px;
+    background-color: #0B2024;
+    color: #E4D170;
+}
+
+body header {
+    background-color: #42424E;
+}
+
+body footer {
+    background-color: #F9A735;
+}
+
+body footer nav {
+    background-color: #C85A33;
+}
+
+body nav {
+    background-color: #C85A33;
+}
+
+body main {
+    
+}
+
+article{
+    margin: 8px;
+    background-color: #42424E;
+    border: dashed 2px blue;
+}
+
+section {
+    
+}
