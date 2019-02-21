@@ -1,0 +1,36 @@
+main{
+    flex-flow: column;
+}
+
+section {
+    padding: 4px;
+}
+
+#one {
+    order: 1;
+}
+
+#two {
+    order: 2;
+}
+
+.articleSectDiv {
+    display: inline-flex;
+    flex-direction: row;
+    padding: 2px;
+}
+
+.middle {
+    display: flex;
+    flex-flow: column;
+}
+
+.innerParagraphGroup {
+    display: flex;
+    order: 3;
+    flex-flow: row;
+}
+
+.innerParagraphGroup p{
+    padding: 4px;
+}
